@@ -1,0 +1,4 @@
+microros_allocators.c:14:8:microros_allocate	1
+microros_allocators.c:22:6:microros_deallocate	2
+microros_allocators.c:31:8:microros_reallocate	2
+microros_allocators.c:44:8:microros_zero_allocate	1
